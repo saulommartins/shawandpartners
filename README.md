@@ -8,7 +8,7 @@ npm start
 
 In the project directory, you can run:
 
-### `npm run install:all``
+### `npm run install:all`
 ### `npm start`
 
 Runs the app in the development mode.\
